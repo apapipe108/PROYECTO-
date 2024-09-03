@@ -5,3 +5,9 @@ Funcionalidades Principales
 Visualización de Histogramas: Permite a los usuarios generar un histograma para analizar la distribución de una variable específica del conjunto de datos.
 Gráfico de Dispersión: Los usuarios pueden generar un gráfico de dispersión para investigar la relación entre dos variables del conjunto de datos.
 La aplicación está diseñada para ser intuitiva y fácil de usar, proporcionando a los usuarios una herramienta poderosa para el análisis exploratorio de datos.
+
+ Local URL: http://localhost:8501
+ Network URL: http://10.204.84.168:8501
+ External URL: http://34.211.200.85:8501
+
+ link url de la pagina de render con mi proyecto: https://dashboard.render.com/web/srv-crb3airtq21c73cf7a40/deploys/dep-crb3ifbv2p9s73ddrarg?r=2024-09-02%4022%3A15%3A32%7E2024-09-02%4022%3A21%3A53
